@@ -1,0 +1,1 @@
+-XX:+UseConcMarkSweepGC -server -Xms64M -Xmx256M

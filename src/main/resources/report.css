@@ -1,0 +1,49 @@
+body {
+    font-family:"Courier New", monospace;
+}
+
+a {
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
+
+td {
+    border: 1px #CCC solid;
+    margin:0;
+    padding: 0 10px;
+}
+
+table {
+    border-collapse:collapse;
+	font-size:small;
+}
+
+p {
+    margin:0;
+    padding: 0 10px;
+}
+
+.key {
+    text-align:left;
+    font-weight:bold;
+    background-color:#EEE;
+}
+
+.value {
+    text-align:right;
+}
+
+.keyComment {
+    text-align:center;
+    font-weight:bold;
+    background-color:#FEFEFE;
+}
+
+div.reportView {
+	border: #CCC 3px double;
+	padding:10px;
+	margin: 10px 0;
+}
